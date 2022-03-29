@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Scratchpad for exercises in course section 3"""
 
 class House:
